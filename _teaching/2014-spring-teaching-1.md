@@ -3,8 +3,9 @@ title: "Statistics for Social Science"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Virginia Polytechnic Institute and State University                                                                                         , Social Science"
-date: "2024 Srping"
+venue: "Virginia Polytechnic Institute and State University, Social Science"
+date: "2024 Spring"
 location: "Blacksburg, Virginia"
 ---
+
 I taught an introductory statistics course tailored for students in the social science department
