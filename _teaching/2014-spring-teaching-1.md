@@ -8,12 +8,3 @@ date: "2024 Srping"
 location: "Blacksburg, Virginia"
 ---
 I taught an introductory statistics course tailored for students in the social science department
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
