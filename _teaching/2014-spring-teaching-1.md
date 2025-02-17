@@ -1,14 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Statistics for Social Science"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Virginia Polytechnic Institute and State University                                                                                         , Social Science"
+date: "2024 Srping"
+location: "Blacksburg, Virginia"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
+I taught an introductory statistics course tailored for students in the social science department
 
 Heading 1
 ======
