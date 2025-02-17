@@ -13,9 +13,9 @@ title                    : "Lina Lee / Homepage"
 title_separator          : "-"
 name                     : &name "Lina Lee"
 description              : &description "Ph.D. Candidate Department of Statistics Virginia Tech"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+url                      : https://linal20.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+baseurl                  : "https://linal20.github.io" # the subpath of your site, e.g. "/blog"
+repository               : "https://linal20.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
