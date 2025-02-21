@@ -49,10 +49,18 @@ May 2021 — Aug 2022 (1 year)                                                  
 
 Skills
 ======
-* Python
+* R (4 years)
+* Python (2 years)
   * Pytorch
-* R
-* SAS
+* SAS (2 years)
+
+Model Capabilities
+======
+* Linear model:	Linear and generalized linear models, Linear and generalized linear mixed models, ANOVA, Regularization methods (lasso, ridge, elastic net)
+* Machine learning:	Neural Network (Currently working on applying Neural Network models on survival analysis)
+Natural Language Processing, Tree-based methods, Support Vector Machines, K - Nearest Neighbors, K -Means Clustering, Principal Components Analysis
+* More:	Bayesian Models, Monte Carlo Simulation, Spatial Statistics, Surrogate Modeling, Survival Analysis, Data Visualization
+
 
 Publications
 ======
