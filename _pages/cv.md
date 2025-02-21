@@ -27,8 +27,8 @@ Jan 2023 — Present (2 year)   						Blacksburg, Virginia
   * First research on neural network models to predict failure status and remaining life of GPU   
       	Supervised by Dr. Yili Hong 
                                                                                 
-   *	Utilized PyTorch to develop models predicting failure status and the remaining life of GPUs
-   *	Conducted comparative analysis of neural networks against traditional machine learning algorithms (Support Vector Machine, Decision Tree, Random Forest, K - nearest Neighbor, Gradient Boosting)
+     *	Utilized PyTorch to develop models predicting failure status and the remaining life of GPUs
+     *	Conducted comparative analysis of neural networks against traditional machine learning algorithms (Support Vector Machine, Decision Tree, Random Forest, K - nearest Neighbor, Gradient Boosting)
   
   * Second research on incorporating random effects on neural network models 
      *	Incorporate random effect in Deep Neural Network models to predict failure status and remaining life of GPU using Pytorch
